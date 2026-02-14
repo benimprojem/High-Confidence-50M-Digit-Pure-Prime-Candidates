@@ -102,7 +102,7 @@ Burada:
 
 ---
 
-### 🚀 Mevcut Liste (Nexus-Al Series)
+### 🚀 Mevcut Liste (Nexus Series)
 
 Aşağıdaki tabloda, 50 milyon basamaklı sınırda tespit edilen ve "Mühürlenen" adayların kısa kodları yer almaktadır:
 
