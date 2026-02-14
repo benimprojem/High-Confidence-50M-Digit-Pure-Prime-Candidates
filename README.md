@@ -86,3 +86,37 @@ Tüm adaylar tam olarak **50.000.000 basamaktan** oluşmaktadır.
 * **Önem:** Mevcut dünya rekoru basamak sayısını yaklaşık **9.000.000 basamak** farkla geride bırakmıştır.
 
 ---
+# 🌌 Nexus-Al Prime Candidate Formulation
+
+Bu proje kapsamında üretilen 50 milyon basamaklı devasa asal adayları, geleneksel Mersenne ($M_n = 2^n - 1$) gösterimine benzer şekilde, aşağıdaki gibi formülize edilmiştir:
+
+### 🛠️ Genel Formülasyon (The Nexus Formula)
+Her bir aday, belirlenen basamak eşiğindeki ($k$) en büyük hizalanmış bloktan bir sapma (offset) olarak tanımlanır:
+
+$$NP(k, \delta) = (10^k) - \delta$$
+
+Burada:
+- **$NP$**: Nexus Prime Candidate (Nexus Asal Adayı)
+- **$k$**: Basamak Sayısı ($50,000,000$)
+- **$\delta$**: Spesifik Ofset Değeri (Hizalama Mührü)
+
+---
+
+### 🚀 Mevcut Liste (Nexus-Al Series)
+
+Aşağıdaki tabloda, 50 milyon basamaklı sınırda tespit edilen ve "Mühürlenen" adayların kısa kodları yer almaktadır:
+
+| İsim | Formülasyon | Son Basamaklar (Ofset) |
+| :--- | :--- | :--- |
+| **Nexus-1** | $10^{50M} - 699$ | `...716301` |
+| **Nexus-2** | $10^{50M} - 573$ | `...716427` |
+| **Nexus-3** | $10^{50M} - 569$ | `...716431` |
+| **Nexus-4** | $10^{50M} - 563$ | `...716437` |
+| **Nexus-5** | $10^{50M} - 561$ | `...716439` |
+| **Nexus-6** | $10^{50M} - 551$ | `...716449` |
+| **Nexus-7** | $10^{50M} - 549$ | `...716451` |
+| **Nexus-8** | $10^{50M} - 543$ | `...716457` |
+| **Nexus-9** | $10^{50M} - 537$ | `...716463` |
+| **Nexus-10** | $10^{50M} - 533$ | `...716467` |
+
+---
